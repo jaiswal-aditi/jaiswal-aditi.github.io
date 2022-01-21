@@ -5,7 +5,8 @@ title: Is JavaScript my karma?
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-19
 labels:
-  - Engineering
+  - Software Engineering
+  - JavaScript
 ---
 
 ## How it started?
