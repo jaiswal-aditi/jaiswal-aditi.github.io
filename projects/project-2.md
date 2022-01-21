@@ -1,16 +1,15 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/project1.png
+title: Parallel Implementation of Gray Level Co-occurrence Matrix Construction using MPI
+permalink: projects/parallelharalick
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-12-12
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - C
+  - MPI
+  - Textural feature
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
