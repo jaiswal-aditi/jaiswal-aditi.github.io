@@ -103,16 +103,6 @@
       ]
     },
     {
-      "company": "European Organization for Nuclear Research (CERN), Geneva",
-      "position": "Graduate Researcher",
-      "website": "",
-      "startDate": "2019-01-08",
-      "endDate": "2019-05-12",
-      "summary": "Master thesis on Search for Heavy Neutral Leptons using displaced vertex signature",
-      "highlights": [
-      ]
-    },
-    {
       "company": "Indian Institute of Technology, Kharagpur, India",
       "position": "Junior Project Officer",
       "website": "",
@@ -122,6 +112,16 @@
       "highlights": [
         "Data Modeling using Neo4j",
         "Designing workflows using ProcessMaker"
+      ]
+    },
+    {
+      "company": "European Organization for Nuclear Research (CERN), Geneva",
+      "position": "Graduate Researcher",
+      "website": "",
+      "startDate": "2019-01-08",
+      "endDate": "2019-05-12",
+      "summary": "Master thesis on Search for Heavy Neutral Leptons using displaced vertex signature",
+      "highlights": [
       ]
     }
   ],
