@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Itook the road not taken by me
+title: I took the road not taken by me
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-20
 labels:
@@ -12,7 +12,7 @@ labels:
 <img class="ui medium right floated rounded image" src="../images/essay-2.png">
 
 You must be wondering if I am talking about Robert Frost's poem or some career path which very few people choose. It's neither because this essay is about my
-experience and expectations with software engineering. 
+experience and expectations with software engineering. At one point in time I considered being a software engineer and then I dropped that idea only to realize there might be a better way to do it.
 
 ## DIKW pyramid
 
