@@ -20,4 +20,4 @@ Image texture is an important feature in computer vision tasks. Textural feature
 
 MPI is a standard message passing interface designed for distributed memory systems, providing routines for both blocking, non-blocking and collective communication between processes. We implemented two different parallel implementations of the GLCM construction process in C using MPI: row-based and tiled. The row-based parallel algorithm computes the GLCM for a particular combination of a grayscale image `A`, an angle `a`, a distance `d` and number of processes `X`. The tiled parallel algorithm computes the GLCM for a particular combination of a grayscale image `A`, an angle `a`, a distance `d` and a number of processes `X`.
 
-Source: <a href="https://github.com/sorapk/parallel-haralick"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/jaiswal-aditi/parallel-haralick"><i class="large github icon"></i>jaiswal-aditi/parallel-haralick</a>
