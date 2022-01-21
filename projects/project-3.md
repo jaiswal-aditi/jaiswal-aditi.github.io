@@ -13,7 +13,7 @@ labels:
 summary: Processing solar images to analyse and measure the velocity shifts in Calcium lines in chromosphere.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/project3.png">
+<img class="ui image" src="{{ site.baseurl }}/images/project3.png">
 `A raw image taken in Ca 8542 Å spectrum line on 28/04/2017 from MAST at USO`
 
 
