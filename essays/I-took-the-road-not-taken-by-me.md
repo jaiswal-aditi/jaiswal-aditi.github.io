@@ -12,7 +12,8 @@ labels:
 <img class="ui medium right floated rounded image" src="../images/essay-2.png">
 
 You must be wondering if I am talking about Robert Frost's poem or some career path which very few people choose. It's neither because this essay is about my
-experience and expectations with software engineering. At one point in time I considered being a software engineer and then I dropped that idea only to realize there might be a better way to do it.
+experience and expectations with software engineering. At one point in time I considered being a software engineer and then I dropped that idea only to realize
+that there might be a better way to do it.
 
 ## DIKW pyramid
 
