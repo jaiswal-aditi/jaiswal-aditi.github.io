@@ -1,22 +1,25 @@
 ---
 layout: project
 type: project
-image: images/project2-1.png
-title: Search for heavy neutrinos using displaced vertex signature
-permalink: projects/righthandedneutrinos
+image: images/project1.png
+title: Parallel Implementation of Gray Level Co-occurrence Matrix Construction using MPI
+permalink: projects/parallelharalick
 # All dates must be YYYY-MM-DD format!
-date: 2019-05-18
+date: 2021-12-12
 labels:
-  - High Energy Physics
-  - ROOT data analysis framework
-  - C++
-summary: This was my Master thesis project at CERN, Geneva, where I was trying to simulate and detect a heavy neutral lepton with the ATLAS detector using a final state that features dileptons and hadrons.
+  - C
+  - MPI
+  - Image Classification
+  - Computer Vision
+summary: This work presents two algorithms, using MPI, for parallel computation of gray-level co-occurence matrices, a precursory step to computation of the Haralick texture features.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/project2-1.png">
-</div>
+<img class="ui medium right floated rounded image" src="../images/project1.png">
 
-Despite being one of the most successful theories of the past century the `Standard Model (SM)` also has its flaws, unable to explain the baryon asymmetry, neutrino masses, dark matter and dark energy. In this work, a preliminary study was performed to see whether it is possible to detect a heavy neutral lepton (HNL), with the ATLAS detector, using a final state that features dileptons and hadrons. HNLs can be produced in the decay of a W boson to a lepton and a neutrino, where the neutrino oscillates into the heavy neutral lepton. Experimentally, it is well established that the relativistic flavour neutrinos &\nu<sub>L</sub> (or anti-neutrinos $\bar{&nu<sub>L</sub>}$) are always produced in left-handed LH (or right-handed RH) dominant weak interaction processes, which are described by a chiral LH field in SM. Since neutrinos have no charge there is a postulate of RH anti-neutrino being neutrino’s CPT and Lorentz partner, which gives them four degrees of freedom: the left and right-handed neutrinos and the left and right-handed anti-neutrinos. But these RH neutrinos &\nu<sub>R</sub> interact very weakly with the matter and are “sterile” or “inert” in nature. When they decay into another lepton and a quark-antiquark pair (which then hadronises), a final state featuring two charged leptons and a hadron is arrived at. A search targeting this final state was performed for this thesis, which has a signature of displaced vertex and thus the event selection was optimised in such a way so as to maximise the efficiency for the semi-leptonic decay mode and minimise the background levels.
+Image texture is an important feature in computer vision tasks. Textural features have been developed to allow for objective comparison of textures between images and image regions. [Haralick](https://ieeexplore.ieee.org/document/4309314) introduced the Gray-Level Co-Occurrence Matrix (GLCM) in 1973 as a necessary step for the computation of the Haralick texture features. The GLCM is a flexible measure of spatial dependence between pixel gray levels which is defined by an angle, a distance, and the unique gray tones in an image.
 
-Since this is still an ongoing research at CERN and its collaborations with other researchers, I can't provide any source code but I am happy to dicuss more about this work. My contributions in this research was doing data analysis and simulating the event.
+MPI is a standard message passing interface designed for distributed memory systems, providing routines for both blocking, non-blocking and collective communication between processes. We implemented two different parallel implementations of the GLCM construction process in C using MPI: row-based and tiled. The row-based parallel algorithm computes the GLCM for a particular combination of a grayscale image `A`, an angle `a`, a distance `d` and number of processes `X`. The tiled parallel algorithm computes the GLCM for a particular combination of a grayscale image `A`, an angle `a`, a distance `d` and a number of processes `X`.
+
+Source: <a href="https://github.com/jaiswal-aditi/parallel-haralick"><i class="large github icon"></i>jaiswal-aditi/parallel-haralick</a>
+
+
