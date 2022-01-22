@@ -13,7 +13,7 @@ labels:
 summary: This was my Master thesis project at CERN, Geneva, where I was trying to simulate and detect a heavy neutral lepton with the ATLAS detector using a final state that features dileptons and hadrons.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/project2-1.png">
+<img class="ui medium right floated rounded image" src="../images/project2.png">
 
 Despite being one of the most successful theories of the past century the `Standard Model (SM)` also has its flaws, unable to explain the baryon asymmetry, neutrino masses, dark matter and dark energy. In this work, a preliminary study was performed to see whether it is possible to detect a heavy neutral lepton (HNL), with the ATLAS detector, using a final state that features dileptons and hadrons. HNLs can be produced in the decay of a W boson to a lepton and a neutrino, where the neutrino oscillates into the heavy neutral lepton. 
 
