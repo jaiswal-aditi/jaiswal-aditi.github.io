@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project2-1.png
+image: images/project2.png
 title: Search for heavy neutrinos using displaced vertex signature
 permalink: projects/righthandedneutrinos
 # All dates must be YYYY-MM-DD format!
