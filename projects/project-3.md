@@ -13,11 +13,10 @@ labels:
 summary: Processing solar images to analyse and measure the velocity shifts in Calcium lines in chromosphere.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/project3.png">
+<!---<img class="ui medium right floated rounded image" src="../images/project3.png">-->
+
+<img class="ui image" src="{{ site.baseurl }}/images/project3.png">
 `A raw image taken in Ca 8542 Å spectrum line on 28/04/2017 from MAST at USO`
-
-
-<!---<img class="ui image" src="{{ site.baseurl }}/images/project3.png">-->
 
 
 The Sun is the powerhouse sustaining life on Earth and providing most of the energy. It is the only star in the Universe which is close enough for us to study and reveal details about its surface. Its basic properties provide benchmarks and boundary conditions for the study of stellar structure and evolution. 
