@@ -103,7 +103,7 @@
       "summary": "Using Deep learning for physics and atmospheric science ",
       "highlights": [
         "Posterior sampling of Galactic Cosmic Radiations: used the observed data, obtained from the AMS satellite from International Space Station, to train a neural network surrogate model and use Markov Chain Monte Carlo method to do posterior sampling over the model parameters (used JAX, TensorFlow)",
-        "Deep learning to predict cut-off lows: Using 20th century atmospheric data (surface pressure) to understand the randomness of these cut-off lows and predict their direction to help with weather forecasting"
+        "Deep learning to predict cut-off lows: Using 20th century atmospheric data (surface pressure) to understand the randomness of these cut-off lows and predict their direction to help with weather forecasting",
       ]
     },
     {
@@ -114,21 +114,9 @@
       "endDate": "2021-08-12",
       "summary": "Spring 2021 and Summer 2021 Graduate Teaching Assistant (ICS311)",
       "highlights": [
-        "Help students with in-class problems and homework assignments"
-        "Assist with curriculum development and instruction of classes"
-        "Grading classworks and homeworks"
-      ]
-    },
-    {
-      "company": "Indian Institute of Technology, Kharagpur, India",
-      "position": "Junior Project Officer",
-      "website": "",
-      "startDate": "2019-08-15",
-      "endDate": "2020-06-15",
-      "summary": "Worked on the project titled Integrated Information System and Knowledge Discovery Platform for ONGC, at Centre for Artificial Intelligence",
-      "highlights": [
-        "Data Modeling using Neo4j",
-        "Designing workflows using ProcessMaker"
+        "Help students with in-class problems and homework assignments",
+        "Assist with curriculum development and instruction of classes",
+        "Grading classworks and homeworks",
       ]
     },
     {
@@ -139,6 +127,8 @@
       "endDate": "2019-05-12",
       "summary": "Master thesis on Search for Heavy Neutral Leptons using displaced vertex signature",
       "highlights": [
+        "Data analysis to validate the hadron multiplicity in semi-leptonic decay of HNL using C++, Root and Pythia",
+        "Studied the data in ATLAS environment while looking out for various parameters and object reconstruction methods using Athena (ATLAS offline computing software framework",
       ]
     },
     {
@@ -147,8 +137,10 @@
       "website": "",
       "startDate": "2018-06-04",
       "endDate": "2018-07-15",
-      "summary": "Summer internship on the topic: measuring elastic scattering cross- sections of multiple channels in 7Li+120Sn and 12C+120Sn nuclear reactions at different beam energies",
+      "summary": "Summer internship on the topic: Measuring elastic scattering cross- sections of multiple channels in 7Li+120Sn and 12C+120Sn nuclear reactions at different beam energies",
       "highlights": [
+        "Energy of residual (Sn) and projectile (Li and C) was used, at different incident energy, in a beam hall experiment to study the reaction cross-section",
+        "Wood-Saxon potential was calculated to measure elastic scattering using Fresco (a program  to perform coupled-reaction channels calculations in nuclear physics)", 
       ]
     },
     {
@@ -159,6 +151,7 @@
       "endDate": "2018-12-31",
       "summary": "Analysis of solar images of H-alpha and G-Band spectrum taken by Multi Application Solar Telescope (MAST) and velocity shift measurements in Calcium line in chromosphere",
       "highlights": [
+        "Processed raw FITS images using IDL (Interactive Data Language) to study the Doppler shifts from the chromospheric lines",
       ]
     }
   ],
