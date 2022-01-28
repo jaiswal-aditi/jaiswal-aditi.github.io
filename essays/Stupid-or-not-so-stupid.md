@@ -22,6 +22,8 @@ Sure enough, in high school, we are encouraged to ask whatever doubts we have, o
 
 One of the surprising and possibly the best thing I learned from Raymond's article is *"experts will be able to tell from your questions how much reading and thinking you did, and will be more willing to help if you come prepared."* (This is the reason I gave my essay the title it has.) There are a plethora of web forums out there, with people asking all sorts of questions and it is interesting to note that some questions are more likely to get a response than others. And the reason is your ability to concisely explain the issue you are facing, what did you do about it, what errors you encountered while doing that, what platform are you working on, correct grammar. Shocking right! So yes, if we are still asking questions like `"Help! This app is not working on my phone/laptop"`, then yes maybe we are dumb after all.
 
+<img class="ui medium right floated rounded image" src="../images/questions.png" width="400" height="200">
+
 
 ### What's "not smart?"
 
