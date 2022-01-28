@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: They don't know that we know that they know
+title: They can help you but they don't want to
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-26
 labels:
@@ -11,14 +11,14 @@ labels:
 ---
 
 Computer Science is indeed a very broad field covering programming languages, software tools, different branches like artificial intelligence, human computer
-interaction but it is always evolving. There's always a new tool, a new update, a new language available for us to learn and use. And with that increases the 
+interaction, and it is always evolving. There's always a new tool, a new update, a new language available for us to learn and use. And with that increases the 
 confusion as well. As a newbie in software engineering, I am learning that it is very important to find the bug on your own (or at least attempt to do so) before 
 bugging others for the solution. With that being said, it is also important to know what the problem is, what the topic is and what question one should ask? 
 Luckily I found this [guide](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Steven Raymond, before I could embarass myself by asking "stupid" questions.
 
 ### ~~Mirror mirror on the wall~~ Computer desktop in the study hall, am I dumb after all?
 
-Sure enough, in high school, we are encouraged to ask whatever doubts we have, or we are being told no questions are stupid. But is that really true though? In the article, Raymond boldly explains the idea of "smart" questions. When you are a software developer, a researcher or, in my case, a graduate student, communication and collaboration play a vital role in every project. Working in a team forces you to ask questions about other's updates, source code or any explanation/question in general. But one should understand that they are not entitled to an answer. Just because your code didn't work or a library in your code threw an error doesn't mean you should straight up ask someone for help. Instead, this is a great time to think about the problem, go through the basics, search the answer on Web or respective forum, discuss the problem with your friend, analyze how they are approaching the problem. And if nothing works, then ask your professor or an expert.
+Sure enough, in high school, we are encouraged to ask whatever doubts we have, or we are being told no questions are stupid. But is this really true? In the article, Raymond boldly explains the idea of "smart" questions. When you are a software developer, a researcher or, in my case, a graduate student, communication and collaboration play a vital role in every project. Working in a team forces you to ask questions about other's updates, source code or any explanation/question in general. But one should understand that they are not entitled to an answer. Just because your code didn't work or a library in your code threw an error doesn't mean you should straight up ask someone for help. Instead, this is a great time to think about the problem, go through the basics, search the answer on Web or respective forum, discuss the problem with your friend, analyze how they are approaching the problem. And if nothing works, then ask your professor or an expert.
 
 One of the surprising and possibly the best thing I learned from Raymond's article is *"experts will be able to tell from your questions how much reading and thinking you did, and will be more willing to help if you come prepared."* (This is the reason I gave my essay the title it has.) There are a plethora of web forums out there, with people asking all sorts of questions and it is interesting to note that some questions are more likely to get a response than others. And the reason is your ability to concisely explain the issue you are facing, what did you do about it, what errors you encountered while doing that, what platform are you working on, correct grammar. Shocking right! So yes, if we are still asking questions like `"Help! This app is not working on my phone/laptop"`, then yes maybe we are dumb after all.
 
