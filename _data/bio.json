@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "Aditi Jaiswal",
-        "url": "www.linkedin.com/in/aditi-jaiswal-083171118"
+        "url": "http://linkedin.com/in/aditi-jaiswal-083171118"
       }
     ]
   },
@@ -58,6 +58,7 @@
         "C++",
         "Python",
         "Javascript",
+        "Matlab",
       ]
     },
     {
@@ -87,19 +88,35 @@
       "studyType": "Integrated M.S.",
       "startDate": "2014-08-14",
       "endDate": "2019-05-25",
-      "gpa": "9.48",
+      "gpa": "9.48/10.0",
       "courses": [
       ]
     },
   ],
   "work": [
     {   
+      "company": "University of Hawaii at Manoa",
       "position": "Graduate Researcher in Sadowski Lab",
       "website": "www.ics.hawaii.edu/people/peter-sadowski/",
       "startDate": "2021-01-25",
       "endDate": "Present",
-      "summary": "Using Machine learning for physics and atmospheric science ",
+      "summary": "Using Deep learning for physics and atmospheric science ",
       "highlights": [
+        "Posterior sampling of Galactic Cosmic Radiations: used the observed data, obtained from the AMS satellite from International Space Station, to train a neural network surrogate model and use Markov Chain Monte Carlo method to do posterior sampling over the model parameters (used JAX, TensorFlow)",
+        "Deep learning to predict cut-off lows: Using 20th century atmospheric data (surface pressure) to understand the randomness of these cut-off lows and predict their direction to help with weather forecasting"
+      ]
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Graduate Teaching Assistant",
+      "website": "",
+      "startDate": "2021-01-11",
+      "endDate": "2021-08-12",
+      "summary": "Spring 2021 and Summer 2021 Graduate Teaching Assistant (ICS311)",
+      "highlights": [
+        "Help students with in-class problems and homework assignments"
+        "Assist with curriculum development and instruction of classes"
+        "Grading classworks and homeworks"
       ]
     },
     {
@@ -108,7 +125,7 @@
       "website": "",
       "startDate": "2019-08-15",
       "endDate": "2020-06-15",
-      "summary": "Worked on the project titled Integrated Information System and Knowledge Discovery Platform for ONGC, at Centre for Artificial Intelligence,",
+      "summary": "Worked on the project titled Integrated Information System and Knowledge Discovery Platform for ONGC, at Centre for Artificial Intelligence",
       "highlights": [
         "Data Modeling using Neo4j",
         "Designing workflows using ProcessMaker"
