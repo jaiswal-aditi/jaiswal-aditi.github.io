@@ -21,7 +21,7 @@ HNLs can be produced by the decay of a W boson to a lepton and a neutrino, where
 
 The base of my analysis was formed by the Monte Carlo truth samples, generated using Pythia, where it predicts that W bosons decay into HNL and leptons. Using an event loop algorithm, a loop over all the particles from this truth particle container was run to recover them. In hadronic decay mode HNL decays into a lepton and a quark- antiquark pair. These quark-antiquark pair then hadronises and can be found at the end of the HNL decay chains, so we look at each particle from the container and check if it is HNL or daughter of HNL or daughter of daughter of HNL and so on…  Each particle can be verified using the Monte Carlo particle numbering scheme, provided by **"Particle Data Group (PDG)"**, which assigns a unique code to each type of particles. 
 
-<img class="ui image" src="{{ site.baseurl }}/images/nuMSM.jpg" width="500" height="200">
+<img class="ui image" src="{{ site.baseurl }}/images/nuMSM.jpg" width="400" height="200">
 
 We observed a lot of kaons and pions as these constitute the majority (almost 99%) of the hadrons obtained from the HNL decay. Then, we verified our hadronic invariant mass distribution obtained HNL- active neutrino mixing by comparing it against a set of experimental data, where average hadron multiplicities per e<sup>-</sup> e<sup>+</sup> annihilation events were given for different center of mass energy. This was then extended to study the charged hadron (or their decay product's) multiplicities because that is what we observe in a detector. This was important because it gives us an idea of number of particles or tracks we can expect to observe from HNL decay, when doing real life experimental study.
 
