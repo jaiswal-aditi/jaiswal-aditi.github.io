@@ -19,7 +19,7 @@ coding standards. The solution to a problem can be obtained by both the clean an
 
 As we are progressing through the semsester we are also trying to merge different applications. So we are not limited to just solving some WODs (discussed [here](https://jaiswal-aditi.github.io/essays/Is-Javascript-my-karma.html)), but also learn to use right tools (editors, IDE) and platform (GitHub) to store our work, which I'll be using some day in future after I get a good job (^wink ^wink). And so we have started with IntelliJ IDEA, an integrated development environment, used for software development. I have never used this before so I am excited to learn more about this and for now it seems really nicely organized environment. There was a fun activity hosted by our professor so as to declare the key binding shortcut champion and I didn't do well in that but I can see how those can make our lives much easier. Using key binding shortcuts for any editor or IDE or platform is good to learn because you can do things fastly. (Fun fact: I used to feel so smart after learning the Linux commands lines but it also made working with the system simpler.) 
 
-<img class="ui image" src="{{ site.baseurl }}/images/coding-standards.png" width="400" height="200">
+<img class="ui medium right floated rounded image" src="../images/coding-standards.png">
 
 ### Making IntelliJ more intelligent with ESLint
 
