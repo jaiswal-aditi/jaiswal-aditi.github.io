@@ -21,7 +21,9 @@ As we are progressing through the semsester we are also trying to merge differen
 
 ### Making IntelliJ more intelligent with ESLint
 
-ESLint is a pluggable code analysis tool to easily maintain your code and stick to coding standards while getting fewer errors. It is easy to 
+ESLint is a pluggable code analysis tool to easily maintain your code and stick to the coding standards while getting fewer errors. It is easy to let your IDE know that it has to use ESLint to report for any errors by setting right preferences. And although it sounds a great tool, it is kind of annoying. It will report every small details which makes you a not-so-good programmer, whether it be bad variable names, using let instead of const, missing indentation or blank spaces etc. These things may not negatively affect the functionality of your code or may not have affected the readability but behind the scenes ESLint is just trying to maintain its own standards (along with coding standards) and make your and your computer's life easier. So it doesn't have to worry about any variable which you are not going to use later or it doesn't have to hold a variable with a silly name. But the good thing is it will help you along the process it will guide you where the error is by raising red flags and what the error is. You just have to correct those mistakes and ESLint will approve you by giving a green checkmark!
+
+Overall I'd say I'm starting to see the good side of IntelliJ for developing a Javascript project and how ESLint can make your code look much presentable and readable. It forces you to follow proper etiquettes to become a better developer or programmer and make the collaborative projects look good.
 
 
 
