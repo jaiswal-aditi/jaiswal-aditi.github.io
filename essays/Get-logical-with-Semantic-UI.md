@@ -10,7 +10,7 @@ labels:
   - html, css
 ---
 
-<img class="ui small medium right floated rounded image" src="../images/semantic.png">
+<img class="ui small right floated rounded image" src="../images/semantic.png">
 
 ### Vanilla CSS vs (other flavoured) CSS frameworks (with few toppings too)
 
