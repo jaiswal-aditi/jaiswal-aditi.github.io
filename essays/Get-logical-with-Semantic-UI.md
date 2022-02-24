@@ -10,7 +10,7 @@ labels:
   - html, css
 ---
 
-<img class="ui tiny right floated rounded image" src="../images/semantic.png">
+<img class="ui small right floated rounded image" src="../images/semantic.png">
 
 ### Vanilla CSS vs (other flavoured) CSS frameworks (with few toppings too)
 
@@ -37,5 +37,5 @@ Both of these codes generate a pretty much same output: a purple button. And sur
 
 ### Managing front-end semantics with Semantic UI
 
-Without any doubt these frameworks are one of the best things in web development world, giving the programmers a lot of flexibility and better efficiency to read and write code. On a larger scale, it makes things even easier across an organization or working in collaboration, by giving a sense of consistency and better compatibility with multiple browsers and devices. Since this is the first CSS framework I am learning I was really quite amazed by its functionality. But it's not as easy as it seems to be. 
+Without any doubt these frameworks are one of the best things in the web development world, giving the programmers a lot of flexibility and better efficiency to read and write code. On a larger scale, it makes things even easier across an organization or working in collaboration, by giving a sense of consistency and better compatibility with multiple browsers and devices. Since this is the first CSS framework I am learning I was really quite amazed by its functionality. But it's not as easy as it seems to be. As mentioned before you need to understand how things work under the hood, what different properties (with predefined values) are and how their values can change your webpage. For example to divide your working space into columns, you should know that the right class to use is `grid` along with a class called `column`. Or since you don't have to specify rows in the grid if you are defining a column of certain width, the other columns might move to the next row
 
