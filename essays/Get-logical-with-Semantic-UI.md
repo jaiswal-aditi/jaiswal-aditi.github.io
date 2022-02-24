@@ -9,3 +9,25 @@ labels:
   - UI Frameworks
   - html, css
 ---
+
+You ever look at few beautifully designed websites, compatible with all browsers and wonder how much effort was put into this. I did and I used to imagine a developer, frustrated yet sitting so patiently, describing each and every property he wants to show on that website. And maybe that's how everyone starts their web development journey, all excited to change the world with their best development skills, only to realize there are ways to do that without making your life complicated. And that's the logic of the logical frameworks, or CSS framework in general, to make your life easy. But wait. That does not mean you should directly jump into that.
+
+~~~
+.button {
+  background: purple;
+  color: white;
+  width: 80px;
+  height: 40px;
+  font-size: 20px;
+  font-family: sans-serif;
+  cursor: pointer;
+}
+~~~
+
+~~~
+<button class="ui purple button">Run</button>
+~~~
+Both of these codes generate a pretty much same output: a purple button. But obviously the latter looks much more redabale and simpler than the former, even for a non-programmer. And sure it feels tempting to jump right into learning a CSS framework and skip the vanilla CSS but you would lack the basic understanding of what is going on behind the scenes, or what each property is supposed to do.
+
+
+
