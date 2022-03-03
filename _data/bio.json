@@ -156,7 +156,31 @@
     }
   ],
   "skills": [
-  {"C++"}, {"Python"}, {"Javascript"},
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Javascript",
+        "Python",
+        "HTML",
+        "CSS",
+        "React",
+        "Meteor",
+        "Semantic UI"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "IntelliJ IDEA"
+      ]
+    }
   ],
   "awards": [
     {
