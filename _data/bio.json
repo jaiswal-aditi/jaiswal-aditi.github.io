@@ -49,28 +49,6 @@
       ]
     }
   ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Python",
-        "Javascript",
-        "Matlab",
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -92,6 +70,33 @@
       "courses": [
       ]
     },
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Javascript",
+        "Python",
+        "HTML",
+        "CSS",
+        "React",
+        "Meteor",
+        "Semantic UI"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "IntelliJ IDEA"
+      ]
+    }
   ],
   "work": [
     {   
@@ -152,33 +157,6 @@
       "summary": "Analysis of solar images of H-alpha and G-Band spectrum taken by Multi Application Solar Telescope (MAST) and velocity shift measurements in Calcium line in chromosphere",
       "highlights": [
         "Processed raw FITS images using IDL (Interactive Data Language) to study the Doppler shifts from the chromospheric lines",
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Javascript",
-        "Python",
-        "HTML",
-        "CSS",
-        "React",
-        "Meteor",
-        "Semantic UI"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "IntelliJ IDEA"
       ]
     }
   ],
