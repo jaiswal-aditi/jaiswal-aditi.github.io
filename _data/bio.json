@@ -155,6 +155,9 @@
       ]
     }
   ],
+  "skills: [
+  {C++}, {Python}, {Javascript},
+  ],
   "awards": [
     {
       "title": "CI-TRACS fellowship",
