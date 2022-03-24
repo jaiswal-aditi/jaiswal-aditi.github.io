@@ -96,6 +96,16 @@
         "Git/GitHub",
         "IntelliJ IDEA"
       ]
+    },
+    {
+      "name": "Libraries",
+      "level": "",
+      "keywords": [
+        "Pandas",
+        "NumPy",
+        "Tensorflow",
+        "Matplotlib"
+      ]
     }
   ],
   "work": [
