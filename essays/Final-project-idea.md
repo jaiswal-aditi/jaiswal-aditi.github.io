@@ -29,6 +29,10 @@ organize it, it'd be good.
 4. Footer
 5. Calendar Page 
 
+## Use Case
+
+The new user logs in and looks for the specific event section they are interested in. They can then see the events posted by other people and the dates they are available and if it matches with the new user's interest they can submit a form and schedule it.
+
 ## Beyond the basics
 
 1. Can extend this idea to plan a trip to other islands
