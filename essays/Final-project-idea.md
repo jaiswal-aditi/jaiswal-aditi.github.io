@@ -35,3 +35,6 @@ organize it, it'd be good.
 2. Taking suggestions for new events
 3. Encrypted chat box
 
+## Authors
+
+Aditi Jaiswal, Beemnet Alemayehu
