@@ -10,16 +10,12 @@ labels:
 
 ## Overview
 
-Often times a new incoming student doesn't have much idea about the outdoor activities he/she can do and it can get pretty intimidating living at a new 
-place without exploring the fun side of it. Also, Hawaii is kind of expensive when it comes to tourism so we came up with an idea to build an app which
-could help students with that. For now this is only for UH students (all 10 campus), where after logging in they can see if other students have posted 
-about any fun activity they are planning to do. These activity could be something related to hiking, eating out, sports and recreation, academic. So let's 
-say someone who has been living in Hawaii for a while and probably has a car posts about their plan to do Koko Head hike. It can be very exhausting to take
-bus to everywhere which is why the other students who don't have a car, who are new to the city, who are looking for new friends can submit a form showing 
-their interest in that activity around the same time (as posted by the owner). They can then contact later and do the activity together. This would become 
-more helpful when it comes to renting a car, as the expenses get divided between multiple people and the whole trip can become very economic.
-We have an idea of adding suggestions from the user wherein they can submit the places they'd like to go and if somebody else is interested as well and can
-organize it, it'd be good. 
+**The problem**: Often times, new students coming to the island are overwhelmed by the transition and they do not get a chance to explore the island to relax their mind. Being ranked as one of the most expensive state in the US does not help ease student’s worry and homesickness either. O‘ahu has lot of places to dine in, hike, sports and recreation, or even study. It would be great if new students are aware of all these places and can make the most out of their time on the island. They can embrace Aloha, without worrying or feeling overwhelmed for coming to the island.
+
+**The solution**: How much better will the students feel exploring the island and doing fun activities with other fellow students. And even better, if they can use a convenient web app that does all the hard work of connecting students to their peers, for you. They can also participate in various student created events all in one single webpage. Students who have been living on the island can create events for incoming students to meet new people, make friends and do the outdoor activities in an economic price range.
+
+**Use**: For example, someone wanted to hike Koko Head and creates an event on the website with a range of dates that is convenient for them. Now other students with similar interest can see the event and join that person. They can either carpool or the latter can get a ride in the former's car or if there's any other event involving multiple days they could rent a car. This is helpful in making the whole trip economic as students can share the cost of renting a car (or a gas if one of them has a car) among themselves. And meeting new people is a bonus!
+
 
 ## Mockup page ideas
 
