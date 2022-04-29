@@ -24,3 +24,12 @@ There are different types of design patterns in software engineering, providing 
 
 Creational pattern is more about classic class-object design. These are further subcategorized in other design patterns based on the difference between inheritance in class instantiation and delegation in object creation, but we will not be discussing that here. Structural design uses class and object composition to obtain new functionality. And finally behavioral design patterns identify the communication between objects of the classes.
 
+<img class="ui medium left floated rounded image" src="../images/Observer.png">
+
+### But why am I writing about this?
+
+As mentioned before, I have been using some of the design practices, especially in my final project to speed up the development process, make debugging easier and code reusable. We've been working with Prototype pattern, a type of creational pattern, where we specify the type of objects to be created using an instance and copy it for other objects. This is like mitosis as opposed to the cookie-cutter method which object oriented programming uses.
+The another observable design pattern used in our project is "observer" pattern, a subset of behavioral design pattern, which works on a publisher-subscriber paradigm. This takes note of the dependencies between objects and when the state of one object changes, its dependents are updated and notified automatically. For our project, we have a database of papers and reviews on those papers on the server side but we don't want everyone to access or modify it. This publisher-subscriber paradigm provides an architectural mechanism of how the publishers or data sources wnat to make data available to other components. Another example of observer pattern is when we make changes in any part of our code, it automatically updates the web application and other entities.
+
+
+To sum up these design practices are equally important as good coding practice because a developer's job is not just to write clean codes but an effective code and if reusing some solution is making the process faster, efficient and easy to maintain with minimum ripple effect then why not use it effectively?
