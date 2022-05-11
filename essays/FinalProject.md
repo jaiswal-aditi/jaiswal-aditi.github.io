@@ -16,13 +16,18 @@ papers to get peer reviews before publishing them in journals and conferences an
 
 ### User Interface 
 
-On retrieving the application, the user should be able to see a brief introduction of the application system, the current total numbers of papers available on the platform along with the count of number of authors and total topics. In the current state of the project, the users can update their profile indicating their research interests, upload their research papers and view the reveiews they got on those papers. The application also displays if there are new papers being uploaded on the platform which matches their interest. The *View Paper* button on the User landing page allows the users to see a list of all the papers uploaded on the application, by other researchers. The uploaded papers are listed with the title, authors' name, keywords of research topics and a view of the abstract of the paper.
+On retrieving the application, the user should be able to see a brief introduction of the application system, the current total numbers of papers available on the platform along with the count of number of authors and total topics. 
 
-<img class="ui large centered rounded image" src="../images/PRF-landing.png">
+<img class="ui big centered rounded image" src="../images/PRF-landing.png">
 
-On clicking the *View Paper* button (on each paper), one can see the full abstract of that paper, a link to download it and a section to leave (or edit) their reviews on it. We have also tried adding a rating feature that allows the uploader to rate how well the review was provided on that paper. This rating feature is the foundation of the token system, a characteristic which prompts users to remain active on the site, and improves the research process by allowing the users to read and review other papers first, before uploading their paper. This is an important step because journal editors and conference chairs find it increasingly difficult to find reviewers for publication manuscripts, which is simplified by the token system in Peer Review Finder. All users are issued some default tokens on registering, and more can be gained by providing constructive reviews on the papers. The number of tokens credited to the reviewer depends on the ratings provided by the original uploader.
+In the current state of the project, the users can update their profile indicating their research interests, upload their research papers and view the reveiews they got on those papers. The application also displays if there are new papers being uploaded on the platform which matches their interest. The *View Paper* button on the User landing page allows the users to see a list of all the papers uploaded on the application, by other researchers. The uploaded papers are listed with the title, authors' name, keywords of research topics and a view of the abstract of the paper.
 
-<img class="ui large centered rounded image" src="../images/PRF-viewPage.png">
+
+On clicking the *View Paper* button (on each paper), one can see the full abstract of that paper, a link to download it and a section to leave (or edit) their reviews on it. We have also tried adding a rating feature that allows the uploader to rate how well the review was provided on that paper.
+
+<img class="ui big centered rounded image" src="../images/PRF-viewPage.png">
+
+This rating feature is the foundation of the token system, a characteristic which prompts users to remain active on the site, and improves the research process by allowing the users to read and review other papers first, before uploading their paper. This is an important step because journal editors and conference chairs find it increasingly difficult to find reviewers for publication manuscripts, which is simplified by the token system in Peer Review Finder. All users are issued some default tokens on registering, and more can be gained by providing constructive reviews on the papers. The number of tokens credited to the reviewer depends on the ratings provided by the original uploader.
 
 ### Publishing Peer Review Finder
 
