@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A <str> is born
+title: A \<str> is born
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-11
 labels:
