@@ -8,6 +8,7 @@ labels:
   - Software Engineering
   - Coding Standards
   - Issue driven project management
+  - Review
 ---
 
 Phew!!! The semester is over and that concludes my journey as a software developer (for now). Am I going to rise from ashes? Only time will tell, but for now I'm going to write about my learning from this class. 
@@ -30,4 +31,6 @@ This is the very first topic whose importance stirred me up. The placemenet of b
 
 <img class="ui large left floated rounded image" src="../images/agile-management.jpg">
 
-It is an iterative approach to deliver a project but through the increamental steps of getting feedback from the users and making those changes accordingly, communication over different tools and processes. In this course we practiced this throughout our group project using Githb tools. We first brainstormed and came up with with features we want to include in our project for which we then Github issues to create  project board, dividing our issues in three categories: to-do, in-progress and done. After this we divided the issues amongst our team members to let each of us focus on a specific part, allowing for better collaboration and learning. This led to an even distribution of work while also allowing other members to see the status of each issue and use a part of it once it was finished by other members. All the features we came up with was further divided into three milestones to build the application step-by-step. This *issue driven project management* was one of the best team project I ever did. 
+It is an iterative approach to deliver a project but through the increamental steps of getting feedback from the users and making those changes accordingly, communication over different tools and processes. In this course we practiced this throughout our group project using Githb tools. We first brainstormed and came up with with features we want to include in our project for which we then Github issues to create  project board, dividing our issues in three categories: to-do, in-progress and done. After this we divided the issues amongst our team members to let each of us focus on a specific part, allowing for better collaboration and learning. This led to an even distribution of work while also allowing other members to see the status of each issue and use a part of it once it was finished by other members. All the features we came up with was further divided into three milestones to build the application step-by-step. This *issue driven project management* was one of the best team work I ever did. 
+
+### Software Ethics
