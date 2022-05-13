@@ -18,7 +18,7 @@ papers to get peer reviews before publishing them in journals and conferences an
 
 On retrieving the application, the user should be able to see a brief introduction of the application system, the current total numbers of papers available on the platform along with the count of number of authors and total topics. 
 
-<img class="ui big centered rounded image" src="../images/PRF-landing.png">
+<img class="ui big centered rounded image" src="../images/prf.png">
 
 In the current state of the project, the users can update their profile indicating their research interests, upload their research papers and view the reveiews they got on those papers. The application also displays if there are new papers being uploaded on the platform which matches their interest. The *View Paper* button on the User landing page allows the users to see a list of all the papers uploaded on the application, by other researchers. The uploaded papers are listed with the title, authors' name, keywords of research topics and a view of the abstract of the paper.
 
