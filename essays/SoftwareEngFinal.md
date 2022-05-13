@@ -14,7 +14,7 @@ Phew!!! The semester is over and that concludes my journey as a software develop
   
 This course was like riding a roller-coaster, something which I have literally never experienced in my life. I still remember contacting multiple graduate students before enrolling in this class as I was really scared that I'd make a complete fool of myself. But I'm glad I took the risk because what a rewarding journey this was! ICS613 as a subject introduced me to the corporate world of web development, software engineering and team work (yes, software engineering is also about those soft skills). Over the course of the semester I learned many concepts, starting with basic Javascript, functional programming, coding standards, then switching gears into user interface (Semantic UI, React), database (MongoDB), software ethics and finally coming a full circle with agile project management. 
 
-<img class="ui medium centered rounded image" src="../images/software-engineers.png">
+<img class="ui large centered rounded image" src="../images/software-engineers.png">
   
 ### Software Engineering is not just sitting in front of your computer and coding (blindly)
   
@@ -22,7 +22,7 @@ Other than the technical knowledge, this is my biggest takeaway from this course
 
 ### Coding Standards
 
-<img class="ui medium right floated rounded image" src="../images/coding-standards.png">
+<img class="ui small right floated rounded image" src="../images/coding-standards.png">
 
 This is the very first topic whose importance stirred me up. The placemenet of brackets, indentation, spacing etc are small things which can make your code look much more cleaner and professional. It makes development, readability, maintenance and debugging of the code much easier. And luckily we have many different tools and editors to help us develop good coding practice. 
 
