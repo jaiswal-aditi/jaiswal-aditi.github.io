@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/peer-review.jpg
+image: images/peer-review.png
 title: Peer Review Project
 permalink: projects/peer-review
 # All dates must be YYYY-MM-DD format!
