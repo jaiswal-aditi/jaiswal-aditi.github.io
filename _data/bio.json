@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Aditi Jaiswal",
-    "label": "Student",
+    "label": "Graduate Student",
     "picture": "https://jaiswal-aditi.github.io/images/aditi.jpg", 
     "email": "ajaiswal@hawaii.edu",
     "phone": "808-829-6359",
     "website": "https://jaiswal-aditi.github.io",
-    "summary": "I am studying for a Master's in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2022.",
+    "summary": "I am studying for a Phd in Computer Science in the Department of Information and Computer Sciences (ICS) at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -39,12 +39,12 @@
       ]
     },
     {
-      "name": "High energy physics",
+      "name": "Digital health",
       "keywords": [
       ]
     },
     {
-      "name": "Software development",
+      "name": "Crowdsourcing",
       "keywords": [
       ]
     }
@@ -52,11 +52,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2022)",
+      "area": "Computer Science",
       "studyType": "M.S.",
       "startDate": "2021-01-11",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2023-05-20",
+      "gpa": "3.96",
       "courses": [
       ]
     },
@@ -78,6 +78,7 @@
       "keywords": [
         "C",
         "C++",
+        "Java",
         "Javascript",
         "Python",
         "HTML",
@@ -103,6 +104,7 @@
       "keywords": [
         "Pandas",
         "NumPy",
+        "Scikit-learn",
         "Tensorflow",
         "Matplotlib"
       ]
@@ -111,14 +113,23 @@
   "work": [
     {   
       "company": "University of Hawaii at Manoa",
+      "position": "Graduate Research Assistant, Hawai'i Digital Health Lab",
+      "website": "https://hawaiidigitalhealthlab.com/",
+      "startDate": "2022-08-01",
+      "endDate": "Present",
+      "summary": "Using machine learning and natural language processing techniques for neurodevelopmental research and behavioral sciences",
+      "highlights": [
+        "Using different diagnostic questionnaires for feature selection and its applications in behavioral and digital phenotyping using a human-in-the-loop crowdsourcing approach",
+      ]
+    },
+    {   
+      "company": "University of Hawaii at Manoa",
       "position": "Graduate Researcher in Sadowski Lab",
       "website": "https://www2.hawaii.edu/~psadow/",
       "startDate": "2021-01-25",
-      "endDate": "Present",
-      "summary": "Using Deep learning for physics and atmospheric science ",
+      "endDate": "2022-06-30",
+      "summary": "Contributed to deep learning based physics and atmospheric science projects.",
       "highlights": [
-        "Posterior sampling of Galactic Cosmic Radiations: used the observed data, obtained from the AMS satellite from International Space Station, to train a neural network surrogate model and use Markov Chain Monte Carlo method to do posterior sampling over the model parameters (used JAX, TensorFlow)",
-        "Deep learning to predict cut-off lows: Using 20th century atmospheric data (surface pressure) to understand the randomness of these cut-off lows and predict their direction to help with weather forecasting",
       ]
     },
     {
@@ -126,8 +137,8 @@
       "position": "Graduate Teaching Assistant",
       "website": "",
       "startDate": "2021-01-11",
-      "endDate": "2021-08-12",
-      "summary": "Spring 2021 and Summer 2021 Graduate Teaching Assistant (ICS311- Algorithms)",
+      "endDate": "Present",
+      "summary": "Graduate Teaching Assistant (ICS311- Algorithms, ICS111- Introduction to Computer Science I (Java), ICS312 - Machine-Level and Systems Programming, ICS211- Introduction to Computer Science II (Java))",
       "highlights": [
         "Help students with in-class problems and homework assignments",
         "Assist with curriculum development and instruction of classes",
@@ -173,9 +184,9 @@
   "awards": [
     {
       "title": "CI-TRACS fellowship",
-      "date": "2021-Present",
+      "date": "2021-2022",
       "awarder": "Hawaii Data Science Institute",
-      "summary": ""
+      "summary": "Helped in developing, implementing and delivering a hand-on workshop centered around teaching high performance computing and deep learning skills; mentor in the CITRUS Summer Program for undergraduate students"
     },
   ]
 }
