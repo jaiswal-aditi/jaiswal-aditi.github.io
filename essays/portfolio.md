@@ -18,6 +18,9 @@ Curriculum Vitae
 Master Thesis
 <a href="https://jaiswal-aditi.github.io/PDF/AditiJaiswal-thesis.pdf">Thesis</a>
 
+List of publications
+<a href="https://jaiswal-aditi.github.io/PDF/Aditi-publications.pdf">Publications</a>
+
 **Evidence of core competency** 
 <a href="https://jaiswal-aditi.github.io/PDF/Aditi-MS-degree.pdf">MS-diploma</a>
 
