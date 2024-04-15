@@ -8,7 +8,7 @@ labels:
 ---
 
 PhD Statement of purpose
-<a href="https://jaiswal-aditi.github.io/PDF/PhD-SOP.pdf">CV</a>
+<a href="https://jaiswal-aditi.github.io/PDF/PhD-SOP.pdf">SOP</a>
 
 Curriculum Vitae
 <a href="https://jaiswal-aditi.github.io/PDF/Aditi_CV.pdf">CV</a>
