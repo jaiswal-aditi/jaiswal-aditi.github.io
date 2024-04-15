@@ -7,9 +7,10 @@ date:
 labels:
 ---
 
-Statement of purpose
+PhD Statement of purpose
 
-Evidence of Core Competency
+Curriculum Vitae
+<a href="https://jaiswal-aditi.github.io/PDF/Aditi_CV.pdf">CV</a>
 
 Master Thesis
-<a href="https://jaiswal-aditi.github.io/PDF/AditiJaiswal-thesis.pdf">mypdf</a>
+<a href="https://jaiswal-aditi.github.io/PDF/AditiJaiswal-thesis.pdf">Thesis</a>
