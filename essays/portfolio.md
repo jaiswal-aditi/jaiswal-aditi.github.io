@@ -23,11 +23,11 @@ Master Thesis
 
 List of publications:
 
-**Jaiswal A**, Washington P. Using #ActuallyAutistic on Twitter for Precision Diagnosis of Autism Spectrum Disorder: Machine Learning Study. JMIR Form Res. 2024;8:e52660. Published 2024 Feb 14. doi:10.2196/52660 [Full text](https://formative.jmir.org/2024/1/e52660) [Download](https://formative.jmir.org/2024/1/e52660/PDF)
+**Jaiswal A**, Washington P. Using #ActuallyAutistic on Twitter for Precision Diagnosis of Autism Spectrum Disorder: Machine Learning Study. JMIR Form Res. 2024;8:e52660. Published 2024 Feb 14. doi:10.2196/52660 [[Full text]](https://formative.jmir.org/2024/1/e52660) [Download](https://formative.jmir.org/2024/1/e52660/PDF)
 
-**Jaiswal A** , Kruiper R, Rasool A, Nandkeolyar A, Wall DP, Washington P. Digitally Diagnosing Multiple Devel- opmental Delays Using Crowdsourcing Fused With Machine Learning: Protocol for a Human-in-the-Loop Machine Learning Study. JMIR Res Protoc. 2024;13:e52205. Published 2024 Feb 8. doi:10.2196/52205 [Full text](https://www.researchprotocols.org/2024/1/e52205) [Download](https://www.researchprotocols.org/2024/1/e52205/PDF)
+**Jaiswal A** , Kruiper R, Rasool A, Nandkeolyar A, Wall DP, Washington P. Digitally Diagnosing Multiple Devel- opmental Delays Using Crowdsourcing Fused With Machine Learning: Protocol for a Human-in-the-Loop Machine Learning Study. JMIR Res Protoc. 2024;13:e52205. Published 2024 Feb 8. doi:10.2196/52205 [[Full text]](https://www.researchprotocols.org/2024/1/e52205) [Download](https://www.researchprotocols.org/2024/1/e52205/PDF)
 
-Sun Y, Kargarandehkordi A, Slade C, **Jaiswal A**, Busch G, Guerrero A, Phillips KT, Washington P. Personalized Deep Learning for Substance Use in Hawaii: Protocol for a Passive Sensing and Ecological Momentary Assessment Study. JMIR Res Protoc. 2024;13:e46493. Published 2024 Feb 7. doi:10.2196/46493 [Full text](https://www.researchprotocols.org/2024/1/e46493) [Download](https://www.researchprotocols.org/2024/1/e46493/PDF)
+Sun Y, Kargarandehkordi A, Slade C, **Jaiswal A**, Busch G, Guerrero A, Phillips KT, Washington P. Personalized Deep Learning for Substance Use in Hawaii: Protocol for a Passive Sensing and Ecological Momentary Assessment Study. JMIR Res Protoc. 2024;13:e46493. Published 2024 Feb 7. doi:10.2196/46493 [[Full text]](https://www.researchprotocols.org/2024/1/e46493) [Download](https://www.researchprotocols.org/2024/1/e46493/PDF)
 
 Amin S, **Jaiswal A**, Washington PY, Pokhrel P. Investigating# vapingcessation in Twitter. American Journal of Health Behavior. 2023 Dec 31;47(6):104-12.
 
