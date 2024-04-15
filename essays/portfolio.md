@@ -11,4 +11,5 @@ Statement of purpose
 
 Evidence of Core Competency
 
-Evidence of Scholarly Ability
+Master Thesis
+<a href="PDF/AditiJaiswal-thesis.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
