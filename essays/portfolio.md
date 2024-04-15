@@ -12,4 +12,4 @@ Statement of purpose
 Evidence of Core Competency
 
 Master Thesis
-<a href="jaiswal-aditi.github.io/PDF/AditiJaiswal-thesis.pdf" target="_blank">PDF.</a>
+<embed src="https://jaiswal-aditi.github.io/PDF/AditiJaiswal-thesis.pdf" type="application/pdf" />
