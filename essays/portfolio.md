@@ -31,7 +31,7 @@ Sun Y, Kargarandehkordi A, Slade C, **Jaiswal A**, Busch G, Guerrero A, Phillips
 
 Amin S, **Jaiswal A**, Washington PY, Pokhrel P. Investigating# vapingcessation in Twitter. American Journal of Health Behavior. 2023 Dec 31;47(6):104-12.
 
-**Jaiswal A**, Wall DP, Washington P. Jaiswal, A., Wall, D., & Washington, P. Challenges in the Differential Classification of Individual Diagnoses from Co-Occurring ASD and ADHD Using Survey Data. *In IEEE-EMBS International Conference on Biomedical and Health Informatics.* <a href="https://jaiswal-aditi.github.io/PDF/IEEE_Aditi.pdf">PDF</a>
+**Jaiswal A**, Wall DP, Washington P. Challenges in the Differential Classification of Individual Diagnoses from Co-Occurring ASD and ADHD Using Survey Data. *In IEEE-EMBS International Conference on Biomedical and Health Informatics.* <a href="https://jaiswal-aditi.github.io/PDF/IEEE_Aditi.pdf">PDF</a>
 
 [Azizian P, **Jaiswal A**, Honarmand M, Wall DP, Washington P. Advancing Scalable and Accessible ADHD Diagnosis: The Power of Crowdsourcing and the Path to Neurodevelopmental Digital Innovation. *Submitted to American Medical Informatics Association (AMIA) 2024 Annual Symposium.*]: #
 
